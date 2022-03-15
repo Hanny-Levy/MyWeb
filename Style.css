@@ -1,0 +1,70 @@
+
+
+
+    body{
+        background-image: url("background.jpg")  ;
+        }
+
+    h1{
+        color: lightsalmon;
+        font-family:"Arial Rounded MT Bold";
+        font-size: xxx-large;
+        text-align:center;
+        text-decoration-style: dotted;
+    }
+
+    h2{
+        color: #48C9B0;
+        margin-left: 25px;
+
+    }
+
+    h3{
+        color: #73C6B6;
+    }
+
+    p{
+        color: #85C1E9;
+        font-size:150%;
+    }
+
+    a{
+        color: #C39BD3;
+        font-size:125%;
+    }
+
+
+    img{
+        width:660px;
+        height:350px;
+    }
+
+    table , th , td{
+        color: cadetblue;
+        border: 5px solid ;
+        width: 800px; height: 40px;
+        text-align:center;
+
+    }
+
+    p ,a , h2, h3 ,table , th , td , img{
+        margin-left: 50px;
+        font-weight: bold;
+        font-family: Comic Sans MS
+
+    }
+
+    p,a,h2,h3,img{
+        text-align: left;
+    }
+
+    h1,h2,h3{
+        text-decoration-line: underline;
+    }
+
+    h2,h3{
+        font-size: x-large;
+    }
+
+
+
